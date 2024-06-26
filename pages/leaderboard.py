@@ -42,7 +42,7 @@ def show_leaderboard(player_data, important_stats, sort_by='XP', ascending=False
 
     # Create a DataFrame from leaderboard data
     df_leaderboard = pd.DataFrame(leaderboard_data)
-    st.dataframe(df_leaderboard.set_index('Rank')[important_stats].style.set_properties(**{'text-align': 'center'}).hide_index())
+    st.dataframe(df_leaderboard.set_index('Rank')[important_stats], hide_index=True)
 
 if __name__ == "__main__":
     folder_path = 'Players' 
