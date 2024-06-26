@@ -78,7 +78,6 @@ def stats_page(username):
         st.markdown(f"<h3>White Magic Proficiency (WMP): {user_profile['WMP']}</h3>", unsafe_allow_html=True)
         st.markdown(f"<h3>Black Magic Proficiency (BMP): {user_profile['BMP']}</h3>", unsafe_allow_html=True)
         st.markdown(f"<h3>Corruption: {user_profile['Corruption']}</h3>", unsafe_allow_html=True)
-        st.markdown(f"<h3>Moral Alignment: {user_profile['Moral_Alignment']}</h3>", unsafe_allow_html=True)
         st.markdown(f"<h3>Potion Mastery: {user_profile['Potion_Mastery']}</h3>", unsafe_allow_html=True)
         st.markdown(f"<h3>Influence: {user_profile['Influence']}</h3>", unsafe_allow_html=True)
         st.markdown(f"<h3>Quests Completed: {user_profile['Quests_Completed']}</h3>", unsafe_allow_html=True)
