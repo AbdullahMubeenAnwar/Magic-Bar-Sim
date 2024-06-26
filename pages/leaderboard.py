@@ -46,7 +46,7 @@ def show_leaderboard(player_data, important_stats, sort_by='XP', ascending=False
 
 if __name__ == "__main__":
     folder_path = 'Players' 
-    important_stats = ['username', 'XP', 'Wisdom', 'Health', 'Mana', 'WMP']  # Define the stats to display
+    important_stats = ['username', 'XP', 'Wisdom', 'Mana', 'WMP', 'BMP', 'Reputation']  # Define the stats to display
 
     player_data = read_player_data(folder_path, important_stats)
 
