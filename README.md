@@ -1,77 +1,21 @@
-### Elixirs of Arcana
+# Magic Bar Simulation 
 
-#### Setting:
+## Overview
 
-In a mystical world where magic flows through the air, there exists a legendary bar called "Elixirs of Arcana." Hidden deep within an enchanted forest, the bar is run by Eldric, a powerful and mysterious wizard. The bar offers a variety of potions, elixirs, and concoctions that enhance magical abilities.
+Magic Bar Simulation 2.0 is an interactive text-based adventure game built using Streamlit, where players embark on a magical journey filled with quests, potions, and mystical encounters. The game takes place in a fantasy world where magic permeates the air, and players must navigate through different acts, make choices that impact their character’s progression, and uncover the mysteries of the Elixirs of Arcana bar.
 
-#### Objective:
+## Features
 
-The player’s goal is to level up their magical abilities by drinking different potions. Weaker potions enhance white magic (healing, protection), while stronger potions enhance black magic (destruction, offense).
+- **Text-Based Adventure**: Immerse yourself in a narrative-driven experience where your choices shape the outcome of the story.
+  
+- **Multiple Acts**: Progress through five acts, each offering unique challenges and decisions that influence your character's development.
+  
+- **Potion Mastery**: Learn and utilize various magical potions to enhance your abilities in white and black magic.
+  
+- **Stat Tracking**: Monitor your character's progress with detailed statistics such as XP, Wisdom, Health, Mana, and more.
+  
+- **Leaderboard**: Compete with other players based on key stats to see who has made the most impactful choices in their journey.
 
-### Characters:
+## Storyline
 
-1. **Player (Protagonist):**
-   * A young apprentice wizard seeking to master magic. They arrive at "Elixirs of Arcana" to enhance their abilities.
-2. **Eldric (Bartender):**
-   * A wise and enigmatic bartender who has mastered both white and black magic. He guides the player through their journey.
-3. **Rivals/Other Patrons:**
-   * Various characters who frequent the bar, each with their own motives and magical abilities. They can be friends, rivals, or obstacles.
-
-### Storyline Progression:
-
-#### Act 1: Discovery
-
-* The player discovers "Elixirs of Arcana" and meets Eldric.
-* They start with basic white magic potions to build foundational skills.
-
-#### Act 2: Mastery of White Magic
-
-* The player levels up and gains access to advanced white magic potions.
-* They encounter patrons who challenge them or offer quests requiring white magic.
-* Eldric shares lore about the bar and white magic.
-
-#### Act 3: Temptation of Black Magic
-
-* Eldric introduces black magic, which is potent but risky.
-* The player faces moral choices, balancing the use of black and white magic.
-* Encounters with rivals intensify, testing the player's ethical stance.
-
-#### Act 4: The Dark Trials
-
-* A dark entity threatens the bar and its patrons.
-* Eldric reveals a hidden past involving the entity and black magic.
-* The player undergoes trials, facing powerful enemies and solving puzzles.
-
-#### Act 5: The Ultimate Choice
-
-* The dark entity offers the player immense power in exchange for full submission to black magic.
-* The player must decide: embrace the darkness or uphold white magic principles.
-* The player’s choice leads to different endings, reflecting their actions throughout the game.
-
-### Endings:
-
-1. **Light Ending:**
-   * The player rejects the dark entity, banishing it with white magic.
-   * The bar is restored to peace, becoming a sanctuary for future wizards.
-2. **Dark Ending:**
-   * The player accepts the dark entity’s offer, gaining immense power but losing their moral compass.
-   * The bar becomes a den of dark magic, feared by the magical community.
-3. **Balanced Ending:**
-   * The player balances both white and black magic to defeat the dark entity.
-   * The bar becomes a place of equilibrium, where both types of magic are respected.
-
-### Key Features:
-
-* **Potion Crafting:**
-  * The player gathers ingredients and crafts unique potions.
-* **Quests and Challenges:**
-  * A variety of quests and challenges that require the use of both white and black magic.
-* **Moral Choices:**
-  * Decisions affect the storyline, character relationships, and the final outcome.
-
-### Visual and Audio Design:
-
-* **Visuals:**
-  * Descriptive text with vivid imagery to create a mystical atmosphere.
-* **Audio:**
-  * Background music and sound effects that change based on the player's choices, enhancing the magical ambiance.
+In a mystical world where magic flows through the very air, players stumble upon a hidden bar known as the Elixirs of Arcana. Run by the enigmatic wizard Eldric, this bar offers potent potions that can either enhance your powers with white magic or delve into the darker realms of black magic. As players progress through acts, they face moral dilemmas, confront powerful adversaries, and ultimately shape the fate of the magical realm.
