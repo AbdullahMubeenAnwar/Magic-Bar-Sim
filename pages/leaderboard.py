@@ -52,6 +52,6 @@ if __name__ == "__main__":
 
     if len(player_data) > 0:
         st.title("Leaderboard")
-        show_leaderboard(player_data, important_stats, sort_by='XP', ascending=False)
+        show_leaderboard(player_data, important_stats, sort_by='XP', ascending=True)
     else:
         st.write("No player data found. Ensure your folder_path is correct and contains valid JSON files.")
